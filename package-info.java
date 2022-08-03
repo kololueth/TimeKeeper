@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author kolo
- *
- */
-package application;
